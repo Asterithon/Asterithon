@@ -1,6 +1,8 @@
 ## Hi there 👋
-<img width="482" height="498" alt="hsr-honkai" src="https://github.com/user-attachments/assets/34d646a5-35bd-4aa2-bbbd-0a3463da7744" />
-
+<div style="display: flex; item-align:center;">  
+  <img width="200" alt="hsr-honkai" src="https://github.com/user-attachments/assets/34d646a5-35bd-4aa2-bbbd-0a3463da7744" />
+  <h1>Wait a moment, she still eating...</h1>
+</div>
 
 <!--
 **Asterithon/Asterithon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
