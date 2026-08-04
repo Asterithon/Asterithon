@@ -1,7 +1,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Asterithon.visitor-badge&logo=github)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&width=600&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&lines=Hi+there!%F0%9F%91%8B;I'm+Bintang+Andika" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&width=600&duration=4000&pause=1000&color=FF6600&center=true&vCenter=true&lines=Hi+there!%F0%9F%91%8B;I'm+Bintang+Andika" alt="Typing SVG" />
 </h1>
 
 <p style="display:flex">
